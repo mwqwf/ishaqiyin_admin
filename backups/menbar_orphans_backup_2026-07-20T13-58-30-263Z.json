@@ -1,0 +1,2191 @@
+{
+ "scannedAt": "2026-07-20T13:58:30.284Z",
+ "counts": {
+  "categories": 8,
+  "subcategories": 38,
+  "lessons": 716,
+  "liveLessons": 647,
+  "orphanSubs": 9,
+  "orphanLessons": 69,
+  "reportOnly": 0
+ },
+ "orphanSubcategories": [
+  {
+   "__id": "4RO7Tyb6su3SLJ6hPCdN",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/subcategories/4RO7Tyb6su3SLJ6hPCdN",
+   "name": "ميثمثك",
+   "categoryId": "7dqaEPAqpw709J6FP0A1",
+   "createdAt": "2025-05-30T06:06:22.461Z",
+   "_type": "subcategory"
+  },
+  {
+   "__id": "679faa6041a434309ce7bbb3",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/subcategories/679faa6041a434309ce7bbb3",
+   "_id": "679faa6041a434309ce7bbb3",
+   "name": "فرع العقيدة ",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "description": "",
+   "imageUrl": "",
+   "createdAt": "2025-02-02T17:24:48.611Z",
+   "updatedAt": "2025-02-02T17:24:48.611Z",
+   "__v": 0,
+   "categoryId": "679c249b41a434309ce7a07d"
+  },
+  {
+   "__id": "67a07dd441a434309ce7cc1c",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/subcategories/67a07dd441a434309ce7cc1c",
+   "_id": "67a07dd441a434309ce7cc1c",
+   "name": "دروس في مواضيع مختلفة ",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "description": "",
+   "imageUrl": "",
+   "createdAt": "2025-02-03T08:27:00.204Z",
+   "updatedAt": "2025-02-03T08:27:00.204Z",
+   "__v": 0,
+   "categoryId": "679c24cd41a434309ce7a083"
+  },
+  {
+   "__id": "67a07df841a434309ce7cc20",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/subcategories/67a07df841a434309ce7cc20",
+   "_id": "67a07df841a434309ce7cc20",
+   "name": "دروس في الحث على أنواع الخير",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "description": "",
+   "imageUrl": "",
+   "createdAt": "2025-02-03T08:27:36.069Z",
+   "updatedAt": "2025-02-03T08:27:36.069Z",
+   "__v": 0,
+   "categoryId": "679c24cd41a434309ce7a083"
+  },
+  {
+   "__id": "67a2437941a434309ce7db7b",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/subcategories/67a2437941a434309ce7db7b",
+   "_id": "67a2437941a434309ce7db7b",
+   "name": "دروس في أهمية طلب العلم والحث على طلبه الشيخ ادريس",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "description": "",
+   "imageUrl": "",
+   "createdAt": "2025-02-04T16:42:33.939Z",
+   "updatedAt": "2025-02-04T16:42:33.939Z",
+   "__v": 0,
+   "categoryId": "679c24cd41a434309ce7a083"
+  },
+  {
+   "__id": "67a8495e6b61d6f3c2e5d8ed",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/subcategories/67a8495e6b61d6f3c2e5d8ed",
+   "_id": "67a8495e6b61d6f3c2e5d8ed",
+   "name": "فرع السيرة",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "description": "",
+   "imageUrl": "",
+   "createdAt": "2025-02-09T06:21:18.793Z",
+   "updatedAt": "2025-02-09T06:21:18.793Z",
+   "__v": 0,
+   "categoryId": "679c249b41a434309ce7a07d"
+  },
+  {
+   "__id": "67e82ffcb1bd3df3cf786178",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/subcategories/67e82ffcb1bd3df3cf786178",
+   "_id": "67e82ffcb1bd3df3cf786178",
+   "name": "العيد",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "description": "",
+   "imageUrl": "",
+   "createdAt": "2025-03-29T17:38:04.289Z",
+   "updatedAt": "2025-03-29T17:38:04.289Z",
+   "__v": 0,
+   "categoryId": "67bf74b9c983b1de8d2e0903"
+  },
+  {
+   "__id": "67e832c9b1bd3df3cf786255",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/subcategories/67e832c9b1bd3df3cf786255",
+   "_id": "67e832c9b1bd3df3cf786255",
+   "name": "دروس عن العشر ءالاواخير",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "description": "",
+   "imageUrl": "",
+   "createdAt": "2025-03-29T17:50:01.188Z",
+   "updatedAt": "2025-03-29T17:50:36.349Z",
+   "__v": 0,
+   "categoryId": "67bf74b9c983b1de8d2e0903"
+  },
+  {
+   "__id": "cxWl55nrrMNKYfu59V4k",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/subcategories/cxWl55nrrMNKYfu59V4k",
+   "name": "مبثك",
+   "categoryId": "yL8Zx6s7SM5Us27lw0jj",
+   "createdAt": "2025-05-29T16:48:32.926Z",
+   "_type": "subcategory"
+  }
+ ],
+ "orphanLessons": [
+  {
+   "__id": "67a07f6941a434309ce7cc3c",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a07f6941a434309ce7cc3c",
+   "_id": "67a07f6941a434309ce7cc3c",
+   "title": "الثبات (الشيخ طلحة)",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738571610/lessons-audio/qmw2zpjf51cb0hdozr8i.ogg",
+   "createdAt": "2025-02-03T08:33:45.550Z",
+   "updatedAt": "2025-02-03T08:33:45.550Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20"
+  },
+  {
+   "__id": "67a0940b41a434309ce7cdba",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0940b41a434309ce7cdba",
+   "_id": "67a0940b41a434309ce7cdba",
+   "title": "معركة الشبهات الشيخ طلحة ",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738576894/lessons-audio/jphpltjktg2ffmvke6jw.ogg",
+   "createdAt": "2025-02-03T10:01:47.441Z",
+   "updatedAt": "2025-02-03T10:01:47.441Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67a099a341a434309ce7ce26",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a099a341a434309ce7ce26",
+   "_id": "67a099a341a434309ce7ce26",
+   "title": "محاضرة دعوية مؤثرة للشيخ سيدي حم رحمه الله ",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738578326/lessons-audio/tzwjqflo0wbrmywjzfd4.ogg",
+   "createdAt": "2025-02-03T10:25:39.906Z",
+   "updatedAt": "2025-02-03T10:25:39.906Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20"
+  },
+  {
+   "__id": "67a09b7241a434309ce7ced0",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a09b7241a434309ce7ced0",
+   "_id": "67a09b7241a434309ce7ced0",
+   "title": "قصة طالوت وجالوت الشيخ إغلس",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738578787/lessons-audio/jprznwnmokzqoqtfuvue.ogg",
+   "createdAt": "2025-02-03T10:33:22.174Z",
+   "updatedAt": "2025-02-03T10:33:22.174Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67a09c8641a434309ce7ceda",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a09c8641a434309ce7ceda",
+   "_id": "67a09c8641a434309ce7ceda",
+   "title": "درس في التحذير من التبغ الشيخ إغلس",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738579068/lessons-audio/k6g9hf1nl69fmo8hlbh1.ogg",
+   "createdAt": "2025-02-03T10:37:58.971Z",
+   "updatedAt": "2025-02-03T10:37:58.971Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67a09d5341a434309ce7cee4",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a09d5341a434309ce7cee4",
+   "_id": "67a09d5341a434309ce7cee4",
+   "title": "‏مقابلة مهمة يجيب فيها الشيخ إغلس حفظه الله عن  بعض الأسئلة",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738579276/lessons-audio/fo5gnhjvggw4bhopahos.ogg",
+   "createdAt": "2025-02-03T10:41:23.660Z",
+   "updatedAt": "2025-02-03T10:41:23.660Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20"
+  },
+  {
+   "__id": "67a0a49441a434309ce7d002",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0a49441a434309ce7d002",
+   "_id": "67a0a49441a434309ce7d002",
+   "title": "التحذير من الموسيقى والاختلاط للشيخ عبد المجيد حفظه الله 1",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738581134/lessons-audio/lbjssl687lbrevp5rhj2.ogg",
+   "createdAt": "2025-02-03T11:12:20.180Z",
+   "updatedAt": "2025-02-03T11:12:20.180Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67a0a52a41a434309ce7d016",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0a52a41a434309ce7d016",
+   "_id": "67a0a52a41a434309ce7d016",
+   "title": "التحذير من الموسيقى والاختلاط للشيخ عبد المجيد حفظه الله 2",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738581287/lessons-audio/sjof3x3tqid5tihfnk89.ogg",
+   "createdAt": "2025-02-03T11:14:50.487Z",
+   "updatedAt": "2025-02-03T11:14:50.487Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67a0a67841a434309ce7d02d",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0a67841a434309ce7d02d",
+   "_id": "67a0a67841a434309ce7d02d",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738581615/lessons-audio/shniwr9kgcbfvvgzvdmr.ogg",
+   "createdAt": "2025-02-03T11:20:24.990Z",
+   "updatedAt": "2025-02-03T11:20:24.990Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20",
+   "title": "الحث على طلب العلم  (إبراهيم الأنصاري حفظه الله وثبته)",
+   "views": 1
+  },
+  {
+   "__id": "67a0a73041a434309ce7d04c",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0a73041a434309ce7d04c",
+   "_id": "67a0a73041a434309ce7d04c",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738581805/lessons-audio/cj3pnelpg4sdlnaxorst.ogg",
+   "createdAt": "2025-02-03T11:23:28.545Z",
+   "updatedAt": "2025-02-03T11:23:28.545Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20",
+   "title": "ذم الجهل والتحذير منه ( إبراهيم الأنصاري حفظه الله)",
+   "views": 1
+  },
+  {
+   "__id": "67a0a77b41a434309ce7d05e",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0a77b41a434309ce7d05e",
+   "_id": "67a0a77b41a434309ce7d05e",
+   "title": "التحذير من الموسيقى والاختلاط للشيخ عبد المجيد 3",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738581881/lessons-audio/vkvwcz0x9ymsiwsbwpyn.ogg",
+   "createdAt": "2025-02-03T11:24:43.245Z",
+   "updatedAt": "2025-02-03T11:24:43.245Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67a0a98141a434309ce7d088",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0a98141a434309ce7d088",
+   "_id": "67a0a98141a434309ce7d088",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738582398/lessons-audio/dnamegjex5mikzhjxnbl.ogg",
+   "createdAt": "2025-02-03T11:33:21.162Z",
+   "updatedAt": "2025-02-03T11:33:21.162Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "title": "حاجة الناس إلى الدين ( إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67a0aa6e41a434309ce7d0a4",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0aa6e41a434309ce7d0a4",
+   "_id": "67a0aa6e41a434309ce7d0a4",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738582634/lessons-audio/mzkeyxeluo9lrxg8c6rk.ogg",
+   "createdAt": "2025-02-03T11:37:18.515Z",
+   "updatedAt": "2025-02-03T11:37:18.515Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "title": "درس في التحذير من الحرام ( إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67a0aaed41a434309ce7d0ae",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0aaed41a434309ce7d0ae",
+   "_id": "67a0aaed41a434309ce7d0ae",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738582761/lessons-audio/gocs4hiatezhcblednnb.ogg",
+   "createdAt": "2025-02-03T11:39:25.420Z",
+   "updatedAt": "2025-02-03T11:39:25.420Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20",
+   "title": "درس في النهي عن المنكر والأمر بالمعروف (إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67a0abbf41a434309ce7d0b8",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0abbf41a434309ce7d0b8",
+   "_id": "67a0abbf41a434309ce7d0b8",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738582969/lessons-audio/zagvekjscylop4xfnd1q.ogg",
+   "createdAt": "2025-02-03T11:42:55.708Z",
+   "updatedAt": "2025-02-03T11:42:55.708Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20",
+   "title": "درس في تربية الأبناء ( إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67a0ac9741a434309ce7d0c2",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0ac9741a434309ce7d0c2",
+   "_id": "67a0ac9741a434309ce7d0c2",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738583186/lessons-audio/nbpx5orpjaze8xg2ypen.ogg",
+   "createdAt": "2025-02-03T11:46:31.058Z",
+   "updatedAt": "2025-02-03T11:46:31.058Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "title": "درس في الصلاة والطهارة(  إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67a0accf41a434309ce7d0cd",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0accf41a434309ce7d0cd",
+   "_id": "67a0accf41a434309ce7d0cd",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738583243/lessons-audio/noy7c3zqzhblrm6uqrtw.ogg",
+   "createdAt": "2025-02-03T11:47:27.955Z",
+   "updatedAt": "2025-02-03T11:47:27.955Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "title": "درس في الصلاة والطهارة ( إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67a0aeb441a434309ce7d0fb",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0aeb441a434309ce7d0fb",
+   "_id": "67a0aeb441a434309ce7d0fb",
+   "title": "مقطع دعوي للشيخ إغلس ",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738583730/lessons-audio/xfbzi8uvauxlqlzduo41.ogg",
+   "createdAt": "2025-02-03T11:55:32.239Z",
+   "updatedAt": "2025-02-03T11:55:32.239Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20"
+  },
+  {
+   "__id": "67a0af4441a434309ce7d105",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a0af4441a434309ce7d105",
+   "_id": "67a0af4441a434309ce7d105",
+   "title": "أهمية الطهارة للشيخ سيدح حفظه الله",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738583874/lessons-audio/isgka0lpegzkzfyegexk.ogg",
+   "createdAt": "2025-02-03T11:57:56.880Z",
+   "updatedAt": "2025-02-03T11:57:56.880Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67a327b76b61d6f3c2e5c39b",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a327b76b61d6f3c2e5c39b",
+   "_id": "67a327b76b61d6f3c2e5c39b",
+   "title": "الدرس 1",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a2437941a434309ce7db7b",
+    "name": "دروس في أهمية طلب العلم والحث على طلبه الشيخ ادريس",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-04T16:42:33.939Z",
+    "updatedAt": "2025-02-04T16:42:33.939Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738745781/lessons-audio/gy1yqr6cv3t8frdjukab.ogg",
+   "createdAt": "2025-02-05T08:56:23.985Z",
+   "updatedAt": "2025-02-05T08:56:23.985Z",
+   "__v": 0,
+   "subcategoryId": "67a2437941a434309ce7db7b"
+  },
+  {
+   "__id": "67a3283c6b61d6f3c2e5c3f5",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a3283c6b61d6f3c2e5c3f5",
+   "_id": "67a3283c6b61d6f3c2e5c3f5",
+   "title": "الدرس 2",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a2437941a434309ce7db7b",
+    "name": "دروس في أهمية طلب العلم والحث على طلبه الشيخ ادريس",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-04T16:42:33.939Z",
+    "updatedAt": "2025-02-04T16:42:33.939Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738745913/lessons-audio/e15lwmx7omthoxkhkomj.ogg",
+   "createdAt": "2025-02-05T08:58:36.465Z",
+   "updatedAt": "2025-02-05T08:58:36.465Z",
+   "__v": 0,
+   "subcategoryId": "67a2437941a434309ce7db7b"
+  },
+  {
+   "__id": "67a3287d6b61d6f3c2e5c401",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a3287d6b61d6f3c2e5c401",
+   "_id": "67a3287d6b61d6f3c2e5c401",
+   "title": "الدرس 3",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a2437941a434309ce7db7b",
+    "name": "دروس في أهمية طلب العلم والحث على طلبه الشيخ ادريس",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-04T16:42:33.939Z",
+    "updatedAt": "2025-02-04T16:42:33.939Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738745977/lessons-audio/kr9wmzs8ubgtcy0mfqme.ogg",
+   "createdAt": "2025-02-05T08:59:41.168Z",
+   "updatedAt": "2025-02-05T08:59:41.168Z",
+   "__v": 0,
+   "subcategoryId": "67a2437941a434309ce7db7b"
+  },
+  {
+   "__id": "67a328ff6b61d6f3c2e5c40b",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a328ff6b61d6f3c2e5c40b",
+   "_id": "67a328ff6b61d6f3c2e5c40b",
+   "title": "الدرس 4",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a2437941a434309ce7db7b",
+    "name": "دروس في أهمية طلب العلم والحث على طلبه الشيخ ادريس",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-04T16:42:33.939Z",
+    "updatedAt": "2025-02-04T16:42:33.939Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738746106/lessons-audio/jlq5uz61yjuccb5da4qn.ogg",
+   "createdAt": "2025-02-05T09:01:51.102Z",
+   "updatedAt": "2025-02-05T09:01:51.102Z",
+   "__v": 0,
+   "subcategoryId": "67a2437941a434309ce7db7b"
+  },
+  {
+   "__id": "67a329ac6b61d6f3c2e5c429",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a329ac6b61d6f3c2e5c429",
+   "_id": "67a329ac6b61d6f3c2e5c429",
+   "title": "الدرس 7",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a2437941a434309ce7db7b",
+    "name": "دروس في أهمية طلب العلم والحث على طلبه الشيخ ادريس",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-04T16:42:33.939Z",
+    "updatedAt": "2025-02-04T16:42:33.939Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738746278/lessons-audio/dasitsxivwuy4bpnitos.ogg",
+   "createdAt": "2025-02-05T09:04:44.581Z",
+   "updatedAt": "2025-02-05T09:04:44.581Z",
+   "__v": 0,
+   "subcategoryId": "67a2437941a434309ce7db7b"
+  },
+  {
+   "__id": "67a32ba76b61d6f3c2e5c49b",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a32ba76b61d6f3c2e5c49b",
+   "_id": "67a32ba76b61d6f3c2e5c49b",
+   "title": "الدرس 5",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a2437941a434309ce7db7b",
+    "name": "دروس في أهمية طلب العلم والحث على طلبه الشيخ ادريس",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-04T16:42:33.939Z",
+    "updatedAt": "2025-02-04T16:42:33.939Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738746789/lessons-audio/yb4wm9qckwnpajbvqztk.ogg",
+   "createdAt": "2025-02-05T09:13:11.059Z",
+   "updatedAt": "2025-02-05T09:13:11.059Z",
+   "__v": 0,
+   "subcategoryId": "67a2437941a434309ce7db7b"
+  },
+  {
+   "__id": "67a32bea6b61d6f3c2e5c4a5",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a32bea6b61d6f3c2e5c4a5",
+   "_id": "67a32bea6b61d6f3c2e5c4a5",
+   "title": "الدرس 6",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a2437941a434309ce7db7b",
+    "name": "دروس في أهمية طلب العلم والحث على طلبه الشيخ ادريس",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-04T16:42:33.939Z",
+    "updatedAt": "2025-02-04T16:42:33.939Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738746854/lessons-audio/r3nw5lddh4zjlimcz2t6.ogg",
+   "createdAt": "2025-02-05T09:14:18.778Z",
+   "updatedAt": "2025-02-05T09:14:18.778Z",
+   "__v": 0,
+   "subcategoryId": "67a2437941a434309ce7db7b"
+  },
+  {
+   "__id": "67a32c3c6b61d6f3c2e5c4af",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a32c3c6b61d6f3c2e5c4af",
+   "_id": "67a32c3c6b61d6f3c2e5c4af",
+   "title": "الدرس 8",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a2437941a434309ce7db7b",
+    "name": "دروس في أهمية طلب العلم والحث على طلبه الشيخ ادريس",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-04T16:42:33.939Z",
+    "updatedAt": "2025-02-04T16:42:33.939Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738746937/lessons-audio/yuisi9fjuwvb9c20u8i4.ogg",
+   "createdAt": "2025-02-05T09:15:40.332Z",
+   "updatedAt": "2025-02-05T09:15:40.332Z",
+   "__v": 0,
+   "subcategoryId": "67a2437941a434309ce7db7b"
+  },
+  {
+   "__id": "67a32ccd6b61d6f3c2e5c4b9",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a32ccd6b61d6f3c2e5c4b9",
+   "_id": "67a32ccd6b61d6f3c2e5c4b9",
+   "title": "الدرس 9",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a2437941a434309ce7db7b",
+    "name": "دروس في أهمية طلب العلم والحث على طلبه الشيخ ادريس",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-04T16:42:33.939Z",
+    "updatedAt": "2025-02-04T16:42:33.939Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738747084/lessons-audio/hbb7uxzemebqhkgyvddu.ogg",
+   "createdAt": "2025-02-05T09:18:05.495Z",
+   "updatedAt": "2025-02-05T09:18:05.495Z",
+   "__v": 0,
+   "subcategoryId": "67a2437941a434309ce7db7b"
+  },
+  {
+   "__id": "67a464cb6b61d6f3c2e5cf5b",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a464cb6b61d6f3c2e5cf5b",
+   "_id": "67a464cb6b61d6f3c2e5cf5b",
+   "title": "ترجمة الشيخ سيدح لدرس مهم ",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738826949/lessons-audio/ksho3fdtkeue1ey96yza.ogg",
+   "createdAt": "2025-02-06T07:29:15.294Z",
+   "updatedAt": "2025-02-06T07:29:15.294Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67a4de126b61d6f3c2e5d293",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a4de126b61d6f3c2e5d293",
+   "_id": "67a4de126b61d6f3c2e5d293",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1738857991/lessons-audio/pkrqtynaodt0itudtcdw.ogg",
+   "createdAt": "2025-02-06T16:06:42.285Z",
+   "updatedAt": "2025-02-06T16:06:42.285Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20",
+   "title": "محاضرة بعنوان :   لماذا ندعو إلى هذا الدين ؟( إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67a846e86b61d6f3c2e5d84d",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a846e86b61d6f3c2e5d84d",
+   "_id": "67a846e86b61d6f3c2e5d84d",
+   "title": "الدرس 1",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "679faa6041a434309ce7bbb3",
+    "name": "فرع العقيدة ",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-02T17:24:48.611Z",
+    "updatedAt": "2025-02-02T17:24:48.611Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739081445/lessons-audio/bsotp6prniq0bnlzek3i.ogg",
+   "createdAt": "2025-02-09T06:10:48.580Z",
+   "updatedAt": "2025-02-09T06:10:48.580Z",
+   "__v": 0,
+   "subcategoryId": "679faa6041a434309ce7bbb3"
+  },
+  {
+   "__id": "67a8470d6b61d6f3c2e5d857",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a8470d6b61d6f3c2e5d857",
+   "_id": "67a8470d6b61d6f3c2e5d857",
+   "title": "الدرس 2",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "679faa6041a434309ce7bbb3",
+    "name": "فرع العقيدة ",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-02T17:24:48.611Z",
+    "updatedAt": "2025-02-02T17:24:48.611Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739081481/lessons-audio/djfixh5czfvsv7qmj6li.ogg",
+   "createdAt": "2025-02-09T06:11:25.176Z",
+   "updatedAt": "2025-02-09T06:11:25.176Z",
+   "__v": 0,
+   "subcategoryId": "679faa6041a434309ce7bbb3"
+  },
+  {
+   "__id": "67a8472f6b61d6f3c2e5d861",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a8472f6b61d6f3c2e5d861",
+   "_id": "67a8472f6b61d6f3c2e5d861",
+   "title": "الدرس 3",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "679faa6041a434309ce7bbb3",
+    "name": "فرع العقيدة ",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-02T17:24:48.611Z",
+    "updatedAt": "2025-02-02T17:24:48.611Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739081517/lessons-audio/holdsaqrqrjlhlblrbgg.ogg",
+   "createdAt": "2025-02-09T06:11:59.384Z",
+   "updatedAt": "2025-02-09T06:11:59.384Z",
+   "__v": 0,
+   "subcategoryId": "679faa6041a434309ce7bbb3"
+  },
+  {
+   "__id": "67a847636b61d6f3c2e5d86b",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a847636b61d6f3c2e5d86b",
+   "_id": "67a847636b61d6f3c2e5d86b",
+   "title": "الدرس 4",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "679faa6041a434309ce7bbb3",
+    "name": "فرع العقيدة ",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-02T17:24:48.611Z",
+    "updatedAt": "2025-02-02T17:24:48.611Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739081567/lessons-audio/prmkdethjjxkoq31mkjw.ogg",
+   "createdAt": "2025-02-09T06:12:51.535Z",
+   "updatedAt": "2025-02-09T06:12:51.535Z",
+   "__v": 0,
+   "subcategoryId": "679faa6041a434309ce7bbb3"
+  },
+  {
+   "__id": "67a847876b61d6f3c2e5d875",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a847876b61d6f3c2e5d875",
+   "_id": "67a847876b61d6f3c2e5d875",
+   "title": "الدرس 5",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "679faa6041a434309ce7bbb3",
+    "name": "فرع العقيدة ",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-02T17:24:48.611Z",
+    "updatedAt": "2025-02-02T17:24:48.611Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739081603/lessons-audio/cu8ebw3epnqm9pij9v2f.ogg",
+   "createdAt": "2025-02-09T06:13:27.177Z",
+   "updatedAt": "2025-02-09T06:13:27.177Z",
+   "__v": 0,
+   "subcategoryId": "679faa6041a434309ce7bbb3"
+  },
+  {
+   "__id": "67a847af6b61d6f3c2e5d87f",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a847af6b61d6f3c2e5d87f",
+   "_id": "67a847af6b61d6f3c2e5d87f",
+   "title": "الدرس 6",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "679faa6041a434309ce7bbb3",
+    "name": "فرع العقيدة ",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-02T17:24:48.611Z",
+    "updatedAt": "2025-02-02T17:24:48.611Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739081644/lessons-audio/lklhizjbgtvdvkfhjvny.ogg",
+   "createdAt": "2025-02-09T06:14:07.713Z",
+   "updatedAt": "2025-02-09T06:14:07.713Z",
+   "__v": 0,
+   "subcategoryId": "679faa6041a434309ce7bbb3"
+  },
+  {
+   "__id": "67a849936b61d6f3c2e5d8f7",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a849936b61d6f3c2e5d8f7",
+   "_id": "67a849936b61d6f3c2e5d8f7",
+   "title": "الدرس 1",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a8495e6b61d6f3c2e5d8ed",
+    "name": "فرع السيرة",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-09T06:21:18.793Z",
+    "updatedAt": "2025-02-09T06:21:18.793Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739082129/lessons-audio/ayk4tjq55qkypbmc84gb.ogg",
+   "createdAt": "2025-02-09T06:22:11.533Z",
+   "updatedAt": "2025-02-09T06:22:11.533Z",
+   "__v": 0,
+   "subcategoryId": "67a8495e6b61d6f3c2e5d8ed"
+  },
+  {
+   "__id": "67a84a076b61d6f3c2e5d901",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a84a076b61d6f3c2e5d901",
+   "_id": "67a84a076b61d6f3c2e5d901",
+   "title": "الدرس 2",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a8495e6b61d6f3c2e5d8ed",
+    "name": "فرع السيرة",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-09T06:21:18.793Z",
+    "updatedAt": "2025-02-09T06:21:18.793Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739082239/lessons-audio/mr46ls0engmujq4jdaaa.ogg",
+   "createdAt": "2025-02-09T06:24:07.139Z",
+   "updatedAt": "2025-02-09T06:24:07.139Z",
+   "__v": 0,
+   "subcategoryId": "67a8495e6b61d6f3c2e5d8ed"
+  },
+  {
+   "__id": "67a84a246b61d6f3c2e5d90b",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a84a246b61d6f3c2e5d90b",
+   "_id": "67a84a246b61d6f3c2e5d90b",
+   "title": "الدرس 3",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a8495e6b61d6f3c2e5d8ed",
+    "name": "فرع السيرة",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-09T06:21:18.793Z",
+    "updatedAt": "2025-02-09T06:21:18.793Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739082274/lessons-audio/a0iw7qoajwrweixyp0oo.ogg",
+   "createdAt": "2025-02-09T06:24:36.716Z",
+   "updatedAt": "2025-02-09T06:24:36.716Z",
+   "__v": 0,
+   "subcategoryId": "67a8495e6b61d6f3c2e5d8ed"
+  },
+  {
+   "__id": "67a84a456b61d6f3c2e5d915",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a84a456b61d6f3c2e5d915",
+   "_id": "67a84a456b61d6f3c2e5d915",
+   "title": "الدرس 4",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a8495e6b61d6f3c2e5d8ed",
+    "name": "فرع السيرة",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-09T06:21:18.793Z",
+    "updatedAt": "2025-02-09T06:21:18.793Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739082307/lessons-audio/ximcfwbus4x3l4vze5jk.ogg",
+   "createdAt": "2025-02-09T06:25:09.738Z",
+   "updatedAt": "2025-02-09T06:25:09.738Z",
+   "__v": 0,
+   "subcategoryId": "67a8495e6b61d6f3c2e5d8ed"
+  },
+  {
+   "__id": "67a84a696b61d6f3c2e5d91f",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a84a696b61d6f3c2e5d91f",
+   "_id": "67a84a696b61d6f3c2e5d91f",
+   "title": "الدرس 5",
+   "category": {
+    "_id": "679c249b41a434309ce7a07d",
+    "name": "الأسرة",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:17:15.291Z",
+    "updatedAt": "2025-01-31T01:17:15.291Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a8495e6b61d6f3c2e5d8ed",
+    "name": "فرع السيرة",
+    "category": "679c249b41a434309ce7a07d",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-09T06:21:18.793Z",
+    "updatedAt": "2025-02-09T06:21:18.793Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739082343/lessons-audio/nee9vumowt60nigg9wyn.ogg",
+   "createdAt": "2025-02-09T06:25:45.873Z",
+   "updatedAt": "2025-02-09T06:25:45.873Z",
+   "__v": 0,
+   "subcategoryId": "67a8495e6b61d6f3c2e5d8ed"
+  },
+  {
+   "__id": "67a84f356b61d6f3c2e5da00",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a84f356b61d6f3c2e5da00",
+   "_id": "67a84f356b61d6f3c2e5da00",
+   "title": "إن كان ولابد (طلحة)",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739083560/lessons-audio/qb8zgsazagmhpke6puvo.ogg",
+   "createdAt": "2025-02-09T06:46:13.732Z",
+   "updatedAt": "2025-02-09T06:46:13.732Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20"
+  },
+  {
+   "__id": "67a850466b61d6f3c2e5dad7",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a850466b61d6f3c2e5dad7",
+   "_id": "67a850466b61d6f3c2e5dad7",
+   "title": "خطر الرياء والسمعة على العمل",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07df841a434309ce7cc20",
+    "name": "دروس في الحث على أنواع الخير",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:36.069Z",
+    "updatedAt": "2025-02-03T08:27:36.069Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739083839/lessons-audio/ddid7nsnnrv5mcbqp3za.ogg",
+   "createdAt": "2025-02-09T06:50:46.699Z",
+   "updatedAt": "2025-02-09T06:50:46.699Z",
+   "__v": 0,
+   "subcategoryId": "67a07df841a434309ce7cc20"
+  },
+  {
+   "__id": "67a851566b61d6f3c2e5dae1",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a851566b61d6f3c2e5dae1",
+   "_id": "67a851566b61d6f3c2e5dae1",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739084114/lessons-audio/iyhbj1p9hdhl1lcrijpt.ogg",
+   "createdAt": "2025-02-09T06:55:18.091Z",
+   "updatedAt": "2025-02-09T06:55:18.091Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "title": "محاضرة بعنوان \" جوابنا لمن تعجب من دعوتنا إلى الله رغم عدم استجابة أغلب الناس لها( إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67a851966b61d6f3c2e5daed",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a851966b61d6f3c2e5daed",
+   "_id": "67a851966b61d6f3c2e5daed",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739084175/lessons-audio/xtrj6pyebdfeicgwemu9.ogg",
+   "createdAt": "2025-02-09T06:56:22.439Z",
+   "updatedAt": "2025-02-09T06:56:22.439Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "title": "محاضرة في التحذير من تضييع الوقت في غير طاعة الله ورسوله( إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67a8524c6b61d6f3c2e5daf7",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a8524c6b61d6f3c2e5daf7",
+   "_id": "67a8524c6b61d6f3c2e5daf7",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739084356/lessons-audio/kunoncdbmcqshjuhh5hq.ogg",
+   "createdAt": "2025-02-09T06:59:24.818Z",
+   "updatedAt": "2025-02-09T06:59:24.818Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "title": "محاضرة بعنوان :   لماذا ندعو إلى هذا الدين ؟ ( إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67a85a136b61d6f3c2e5dcc1",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a85a136b61d6f3c2e5dcc1",
+   "_id": "67a85a136b61d6f3c2e5dcc1",
+   "title": "حلقة الإفتاء ترجمة الشيخ طلحة ",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739086326/lessons-audio/inf4t1ouoh95pmdllzoq.ogg",
+   "createdAt": "2025-02-09T07:32:35.215Z",
+   "updatedAt": "2025-02-09T07:32:35.215Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67a85b1e6b61d6f3c2e5dd31",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a85b1e6b61d6f3c2e5dd31",
+   "_id": "67a85b1e6b61d6f3c2e5dd31",
+   "title": "ترجمة الشيخ طلحة لأحد الدروس المهمة",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739086612/lessons-audio/rgkydinxwrhriyjx3rxi.ogg",
+   "createdAt": "2025-02-09T07:37:02.678Z",
+   "updatedAt": "2025-02-09T07:37:02.678Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67a86f9b6b61d6f3c2e5dde9",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67a86f9b6b61d6f3c2e5dde9",
+   "_id": "67a86f9b6b61d6f3c2e5dde9",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739091858/lessons-audio/pzuj356uxisdactg34fz.ogg",
+   "createdAt": "2025-02-09T09:04:27.799Z",
+   "updatedAt": "2025-02-09T09:04:27.799Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "title": "محاضرة بعنوان مكانة العلماء وضرورة احترامهم لأنهم مصابيح الهدى( إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67ae0ef851aaa9d3ecec0c0f",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67ae0ef851aaa9d3ecec0c0f",
+   "_id": "67ae0ef851aaa9d3ecec0c0f",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739460338/lessons-audio/h0ibeonzes1xuqxcuibh.ogg",
+   "createdAt": "2025-02-13T15:25:44.136Z",
+   "updatedAt": "2025-02-13T15:25:44.136Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "title": "تذكرة مؤثرة في خلق الله للكون(إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67b03d9f51aaa9d3ecec0ef8",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67b03d9f51aaa9d3ecec0ef8",
+   "_id": "67b03d9f51aaa9d3ecec0ef8",
+   "title": "محاضرة بعنوان:    التذكير بالموت",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739603356/lessons-audio/eep4xlmgtllzpvjll41i.ogg",
+   "createdAt": "2025-02-15T07:09:19.486Z",
+   "updatedAt": "2025-02-15T07:09:19.486Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67b3499f51aaa9d3ecec81b0",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67b3499f51aaa9d3ecec81b0",
+   "_id": "67b3499f51aaa9d3ecec81b0",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1739803025/lessons-audio/aupkcgtmoqcob7tiqku0.ogg",
+   "createdAt": "2025-02-17T14:37:19.019Z",
+   "updatedAt": "2025-02-17T14:37:19.019Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "title": "اختيار المجالس الحسنة وصحبة العلماء والمتقين( إبراهيم الأنصاري حفظه الله)"
+  },
+  {
+   "__id": "67c03955c983b1de8d2e12e9",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67c03955c983b1de8d2e12e9",
+   "_id": "67c03955c983b1de8d2e12e9",
+   "title": "قصيدة في ذم الدنيا",
+   "category": {
+    "_id": "679c24cd41a434309ce7a083",
+    "name": "منوعات",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-01-31T01:18:05.789Z",
+    "updatedAt": "2025-01-31T01:18:05.789Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67a07dd441a434309ce7cc1c",
+    "name": "دروس في مواضيع مختلفة ",
+    "category": "679c24cd41a434309ce7a083",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-03T08:27:00.204Z",
+    "updatedAt": "2025-02-03T08:27:00.204Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/ddcnoxpgy/video/upload/v1740650836/lessons-audio/cjbiwyompe4vvicun5cq.aac",
+   "createdAt": "2025-02-27T10:07:17.587Z",
+   "updatedAt": "2025-02-27T10:07:17.587Z",
+   "__v": 0,
+   "subcategoryId": "67a07dd441a434309ce7cc1c"
+  },
+  {
+   "__id": "67e83080b1bd3df3cf78618c",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e83080b1bd3df3cf78618c",
+   "_id": "67e83080b1bd3df3cf78618c",
+   "title": "الدرس 1",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e82ffcb1bd3df3cf786178",
+    "name": "العيد",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:38:04.289Z",
+    "updatedAt": "2025-03-29T17:38:04.289Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743269949/1_nkkbz2.ogg",
+   "createdAt": "2025-03-29T17:40:16.884Z",
+   "updatedAt": "2025-03-29T17:40:16.884Z",
+   "__v": 0,
+   "subcategoryId": "67e82ffcb1bd3df3cf786178"
+  },
+  {
+   "__id": "67e830b3b1bd3df3cf7861a0",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e830b3b1bd3df3cf7861a0",
+   "_id": "67e830b3b1bd3df3cf7861a0",
+   "title": "الدرس 2",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e82ffcb1bd3df3cf786178",
+    "name": "العيد",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:38:04.289Z",
+    "updatedAt": "2025-03-29T17:38:04.289Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743269949/1_nkkbz2.ogg",
+   "createdAt": "2025-03-29T17:41:07.628Z",
+   "updatedAt": "2025-03-29T17:41:07.628Z",
+   "__v": 0,
+   "subcategoryId": "67e82ffcb1bd3df3cf786178"
+  },
+  {
+   "__id": "67e830d7b1bd3df3cf7861aa",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e830d7b1bd3df3cf7861aa",
+   "_id": "67e830d7b1bd3df3cf7861aa",
+   "title": "الدرس 3",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e82ffcb1bd3df3cf786178",
+    "name": "العيد",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:38:04.289Z",
+    "updatedAt": "2025-03-29T17:38:04.289Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743269946/3_glcv2p.ogg",
+   "createdAt": "2025-03-29T17:41:43.263Z",
+   "updatedAt": "2025-03-29T17:41:43.263Z",
+   "__v": 0,
+   "subcategoryId": "67e82ffcb1bd3df3cf786178"
+  },
+  {
+   "__id": "67e83107b1bd3df3cf7861b7",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e83107b1bd3df3cf7861b7",
+   "_id": "67e83107b1bd3df3cf7861b7",
+   "title": "الدرس 4",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e82ffcb1bd3df3cf786178",
+    "name": "العيد",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:38:04.289Z",
+    "updatedAt": "2025-03-29T17:38:04.289Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743269954/4_vlhhr8.ogg",
+   "createdAt": "2025-03-29T17:42:31.353Z",
+   "updatedAt": "2025-03-29T17:42:31.353Z",
+   "__v": 0,
+   "subcategoryId": "67e82ffcb1bd3df3cf786178"
+  },
+  {
+   "__id": "67e8313ab1bd3df3cf7861c1",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e8313ab1bd3df3cf7861c1",
+   "_id": "67e8313ab1bd3df3cf7861c1",
+   "title": "الدرس 5",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e82ffcb1bd3df3cf786178",
+    "name": "العيد",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:38:04.289Z",
+    "updatedAt": "2025-03-29T17:38:04.289Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743269947/5_nbybsa.ogg",
+   "createdAt": "2025-03-29T17:43:22.504Z",
+   "updatedAt": "2025-03-29T17:43:22.504Z",
+   "__v": 0,
+   "subcategoryId": "67e82ffcb1bd3df3cf786178",
+   "views": 1
+  },
+  {
+   "__id": "67e83160b1bd3df3cf7861cb",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e83160b1bd3df3cf7861cb",
+   "_id": "67e83160b1bd3df3cf7861cb",
+   "title": "الدرس 6",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e82ffcb1bd3df3cf786178",
+    "name": "العيد",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:38:04.289Z",
+    "updatedAt": "2025-03-29T17:38:04.289Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743269948/6_qt3jc1.ogg",
+   "createdAt": "2025-03-29T17:44:00.493Z",
+   "updatedAt": "2025-03-29T17:44:00.493Z",
+   "__v": 0,
+   "subcategoryId": "67e82ffcb1bd3df3cf786178"
+  },
+  {
+   "__id": "67e83384b1bd3df3cf786273",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e83384b1bd3df3cf786273",
+   "_id": "67e83384b1bd3df3cf786273",
+   "title": "الدرس 1",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e832c9b1bd3df3cf786255",
+    "name": "دروس عن العشر ءالاواخير",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:50:01.188Z",
+    "updatedAt": "2025-03-29T17:50:36.349Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743270724/www5_ufgvh1.ogg",
+   "createdAt": "2025-03-29T17:53:08.459Z",
+   "updatedAt": "2025-03-29T17:53:08.459Z",
+   "__v": 0,
+   "subcategoryId": "67e832c9b1bd3df3cf786255"
+  },
+  {
+   "__id": "67e836d9b1bd3df3cf78630e",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e836d9b1bd3df3cf78630e",
+   "_id": "67e836d9b1bd3df3cf78630e",
+   "title": "الدرس 2",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e832c9b1bd3df3cf786255",
+    "name": "دروس عن العشر ءالاواخير",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:50:01.188Z",
+    "updatedAt": "2025-03-29T17:50:36.349Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743271573/www7_xooicg.ogg",
+   "createdAt": "2025-03-29T18:07:21.645Z",
+   "updatedAt": "2025-03-29T18:07:21.645Z",
+   "__v": 0,
+   "subcategoryId": "67e832c9b1bd3df3cf786255"
+  },
+  {
+   "__id": "67e919bcb1bd3df3cf786b0b",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e919bcb1bd3df3cf786b0b",
+   "_id": "67e919bcb1bd3df3cf786b0b",
+   "title": "الدرس 3",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e832c9b1bd3df3cf786255",
+    "name": "دروس عن العشر ءالاواخير",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:50:01.188Z",
+    "updatedAt": "2025-03-29T17:50:36.349Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743329618/Bbbbb3_atilga.ogg",
+   "createdAt": "2025-03-30T10:15:24.968Z",
+   "updatedAt": "2025-03-30T10:15:24.968Z",
+   "__v": 0,
+   "subcategoryId": "67e832c9b1bd3df3cf786255"
+  },
+  {
+   "__id": "67e92424b1bd3df3cf786c28",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e92424b1bd3df3cf786c28",
+   "_id": "67e92424b1bd3df3cf786c28",
+   "title": "الدرس 4",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e832c9b1bd3df3cf786255",
+    "name": "دروس عن العشر ءالاواخير",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:50:01.188Z",
+    "updatedAt": "2025-03-29T17:50:36.349Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743332329/Sjjv_4_yij4zt.ogg",
+   "createdAt": "2025-03-30T10:59:48.961Z",
+   "updatedAt": "2025-03-30T10:59:48.961Z",
+   "__v": 0,
+   "subcategoryId": "67e832c9b1bd3df3cf786255"
+  },
+  {
+   "__id": "67e925f7b1bd3df3cf786cbc",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e925f7b1bd3df3cf786cbc",
+   "_id": "67e925f7b1bd3df3cf786cbc",
+   "title": "الدرس 5",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e832c9b1bd3df3cf786255",
+    "name": "دروس عن العشر ءالاواخير",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:50:01.188Z",
+    "updatedAt": "2025-03-29T17:50:36.349Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743332511/Djjssk_5_d14b0j.ogg",
+   "createdAt": "2025-03-30T11:07:35.959Z",
+   "updatedAt": "2025-03-30T11:07:35.959Z",
+   "__v": 0,
+   "subcategoryId": "67e832c9b1bd3df3cf786255"
+  },
+  {
+   "__id": "67e9260fb1bd3df3cf786cc6",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e9260fb1bd3df3cf786cc6",
+   "_id": "67e9260fb1bd3df3cf786cc6",
+   "title": "الدرس 6",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e832c9b1bd3df3cf786255",
+    "name": "دروس عن العشر ءالاواخير",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:50:01.188Z",
+    "updatedAt": "2025-03-29T17:50:36.349Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743332823/Dbdjd_6_gkpc72.ogg",
+   "createdAt": "2025-03-30T11:07:59.666Z",
+   "updatedAt": "2025-03-30T11:07:59.666Z",
+   "__v": 0,
+   "subcategoryId": "67e832c9b1bd3df3cf786255"
+  },
+  {
+   "__id": "67e92753b1bd3df3cf786cd4",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/67e92753b1bd3df3cf786cd4",
+   "_id": "67e92753b1bd3df3cf786cd4",
+   "title": "الدرس 7",
+   "category": {
+    "_id": "67bf74b9c983b1de8d2e0903",
+    "name": "دروس رمضان 1446",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-02-26T20:08:25.277Z",
+    "updatedAt": "2025-02-26T20:08:25.277Z",
+    "__v": 0
+   },
+   "subcategory": {
+    "_id": "67e832c9b1bd3df3cf786255",
+    "name": "دروس عن العشر ءالاواخير",
+    "category": "67bf74b9c983b1de8d2e0903",
+    "description": "",
+    "imageUrl": "",
+    "createdAt": "2025-03-29T17:50:01.188Z",
+    "updatedAt": "2025-03-29T17:50:36.349Z",
+    "__v": 0
+   },
+   "audioUrl": "https://res.cloudinary.com/dlftksgw5/video/upload/v1743333039/Dbwjdj_7_d7aq1d.ogg",
+   "createdAt": "2025-03-30T11:13:23.857Z",
+   "updatedAt": "2025-03-30T11:13:23.857Z",
+   "__v": 0,
+   "subcategoryId": "67e832c9b1bd3df3cf786255"
+  },
+  {
+   "__id": "7O8yOBlIvpQKq1DwNOy8",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/7O8yOBlIvpQKq1DwNOy8",
+   "title": "مثثكث",
+   "categoryId": "7dqaEPAqpw709J6FP0A1",
+   "subcategoryId": "4RO7Tyb6su3SLJ6hPCdN",
+   "audioUrl": "https://firebasestorage.googleapis.com/v0/b/mxqp-8d1e8.firebasestorage.app/o/lessons%2F1748585205000_%D9%8A%D8%AE%D8%B5%D8%AE%D8%B5%D8%AD%D8%B5%D8%AD%D8%B5%D8%AD1111111.opus?alt=media&token=1b287a49-4e46-437e-ba1c-22a7e0402acb",
+   "createdAt": "2025-05-30T06:06:56.359Z"
+  },
+  {
+   "__id": "WPi8KwZ0EHBRrWQ9VaCW",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/WPi8KwZ0EHBRrWQ9VaCW",
+   "title": "يمثمث",
+   "categoryId": "yL8Zx6s7SM5Us27lw0jj",
+   "subcategoryId": "cxWl55nrrMNKYfu59V4k",
+   "audioUrl": "https://firebasestorage.googleapis.com/v0/b/mxqp-8d1e8.firebasestorage.app/o/lessons%2F1748537336029_%D9%8A%D8%AE%D8%B5%D8%AE%D8%B5%D8%AD%D8%B5%D8%AD%D8%B5%D8%AD1111111.opus?alt=media&token=9796e084-32cf-4511-a3b2-6ccf4d373f3b",
+   "createdAt": "2025-05-29T16:49:17.145Z"
+  },
+  {
+   "__id": "uuo98CqGYZ2SgOxusIUt",
+   "__name": "projects/mxqp-8d1e8/databases/(default)/documents/lessons/uuo98CqGYZ2SgOxusIUt",
+   "title": "شرح ءاية \n﴿فَلَمَّا زَاغُوا أَزَاغَ اللَّهُ قُلُوبَهُمْ ۚوَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِين﴾\n\n (الشيخ طلحة)",
+   "categoryId": "679c24cd41a434309ce7a083",
+   "subcategoryId": "67a07dd441a434309ce7cc1c",
+   "audioUrl": "https://firebasestorage.googleapis.com/v0/b/mxqp-8d1e8.firebasestorage.app/o/lessons%2F1751176820858_%D8%B7%D9%84%D8%AE%D8%A9.opus?alt=media&token=2aadcf2a-46b0-48e9-be52-fe1b16111d3f",
+   "audioStoragePath": "lessons/1751176820858_طلخة.opus",
+   "createdAt": "2025-06-29T06:00:25.073Z"
+  }
+ ],
+ "reportOnlyLessons": []
+}

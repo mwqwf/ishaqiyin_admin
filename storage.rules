@@ -1,0 +1,114 @@
+rules_version = '2';
+
+// القواعد المرجعية لتخزين مشروع mxqp-8d1e8.
+// ملفات المساهمات المعلقة خاصة، بينما ملفات الدروس والكتب المنشورة عامة.
+service firebase.storage {
+  match /b/{bucket}/o {
+    function signedIn() {
+      return request.auth != null;
+    }
+
+    function userEmail() {
+      return signedIn() && request.auth.token.email != null
+        ? request.auth.token.email.lower()
+        : '';
+    }
+
+    function isOwner() {
+      return userEmail() == 'bdalmjydtbwn812@gmail.com';
+    }
+
+    function isSupervisor() {
+      return signedIn()
+        && userEmail() != ''
+        && firestore.exists(/databases/(default)/documents/dashboard_admins/$(userEmail()))
+        && firestore.get(/databases/(default)/documents/dashboard_admins/$(userEmail())).data.role == 'supervisor'
+        && firestore.get(/databases/(default)/documents/dashboard_admins/$(userEmail())).data.blocked != true;
+    }
+
+    function canManageContent() {
+      return isOwner() || isSupervisor();
+    }
+
+    function validAudio() {
+      return request.resource.size > 0
+        && request.resource.size <= 100 * 1024 * 1024
+        && request.resource.contentType != null
+        && request.resource.contentType.matches('audio/.*');
+    }
+
+    function validBook() {
+      return request.resource.size > 0
+        && request.resource.size <= 50 * 1024 * 1024
+        && request.resource.contentType == 'application/pdf';
+    }
+
+    // المسار الحالي للتطبيق العام: submissions/{uid}/{submissionId}/{fileName}
+    match /submissions/{uid}/{submissionId}/{fileName} {
+      allow read: if canManageContent() || (signedIn() && request.auth.uid == uid);
+      allow create: if signedIn()
+        && request.auth.uid == uid
+        && validAudio();
+      allow update: if false;
+      allow delete: if canManageContent()
+        || (
+          signedIn()
+          && request.auth.uid == uid
+          && (
+            !firestore.exists(/databases/(default)/documents/lesson_submissions/$(submissionId))
+            || firestore.get(/databases/(default)/documents/lesson_submissions/$(submissionId)).data.status == 'pending'
+          )
+        );
+    }
+
+    // دعم آمن للمسارات القديمة داخل مجلد المستخدم نفسه.
+    match /submissions/{uid}/{allPaths=**} {
+      allow read: if canManageContent() || (signedIn() && request.auth.uid == uid);
+      allow create: if signedIn()
+        && request.auth.uid == uid
+        && validAudio();
+      allow update: if false;
+      allow delete: if canManageContent();
+    }
+
+    match /lessons/{allPaths=**} {
+      allow read: if true;
+      allow create, update: if canManageContent() && validAudio();
+      allow delete: if canManageContent();
+    }
+
+    match /books/{allPaths=**} {
+      allow read: if true;
+      allow create, update: if canManageContent() && validBook();
+      allow delete: if canManageContent();
+    }
+
+    // مرفقات مجموعة الإدارة وصور الأعضاء/المجموعة ومرفقات المحادثات
+    // الفرديّة (admin_chat/dm/...). تبقى خاصّة بالحسابات المعتمدة، ولا
+    // يراها تطبيق منبر العام أو المستخدمون المجهولون.
+    // ملاحظة: التطبيق ينزّل هذه الملفّات عبر Firebase SDK بهويّة المستخدم
+    // (writeToFile) لا عبر رابط عامّ — فتُطبَّق هذه القاعدة فعليّاً.
+    match /admin_chat/{allPaths=**} {
+      allow read: if canManageContent();
+      allow create, update: if canManageContent()
+        && request.resource.size > 0
+        && request.resource.size <= 250 * 1024 * 1024;
+      allow delete: if canManageContent();
+    }
+
+    // مسارات نشر قديمة محتملة؛ لا تسمح بالكتابة العامة.
+    match /audio/{allPaths=**} {
+      allow read: if true;
+      allow write: if canManageContent();
+    }
+
+    match /pdfs/{allPaths=**} {
+      allow read: if true;
+      allow write: if canManageContent();
+    }
+
+    match /{allPaths=**} {
+      allow read, write: if false;
+    }
+  }
+}
